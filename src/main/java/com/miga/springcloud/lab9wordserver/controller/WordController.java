@@ -1,11 +1,11 @@
-package com.miga.springcloud.lab7wordserver.controller;
+package com.miga.springcloud.lab9wordserver.controller;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.miga.springcloud.lab7wordserver.domain.Word;
+import com.miga.springcloud.lab9wordserver.domain.Word;
 
 @RestController
 public class WordController {

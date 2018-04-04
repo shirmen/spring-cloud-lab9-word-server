@@ -1,4 +1,4 @@
-package com.miga.springcloud.lab7wordserver.domain;
+package com.miga.springcloud.lab9wordserver.domain;
 
 public class Word {
 
